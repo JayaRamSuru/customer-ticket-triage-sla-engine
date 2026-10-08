@@ -1,1 +1,32 @@
 
+
+[
+  {
+    "ticket_id": "TCK-101",
+    "customer_name": "Ravi Kumar",
+    "subject": "Payment failed but money debited from bank account",
+    "created_at": "2026-10-08T09:30:00",
+    "status": "OPEN"
+  },
+  {
+    "ticket_id": "TCK-102",
+    "customer_name": "Ananya Sharma",
+    "subject": "Need help with updating my delivery address",
+    "created_at": "2026-10-07T11:00:00",
+    "status": "OPEN"
+  },
+  {
+    "ticket_id": "TCK-103",
+    "customer_name": "Suresh Raina",
+    "subject": "System crash error 500 when opening dashboard urgently",
+    "created_at": "2026-10-08T13:45:00",
+    "status": "OPEN"
+  },
+  {
+    "ticket_id": "TCK-104",
+    "customer_name": "Pooja Hegde",
+    "subject": "General inquiry about subscription plans and pricing",
+    "created_at": "2026-10-06T15:00:00",
+    "status": "CLOSED"
+  }
+]
